@@ -46,8 +46,8 @@ Users should be able to:
 
 ### Useful resources
 
-- [Firebase Hosting](https://www.example.com) - Used to deploy the application.
-- [imgbb](https://www.example.com) - Used to store some of the application's images.
+- [Firebase Hosting](https://firebase.google.com/docs/hosting) - Used to deploy the application.
+- [imgbb](https://pt-br.imgbb.com) - Used to store some of the application's images.
 
 ## Author
 

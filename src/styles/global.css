@@ -1,0 +1,29 @@
+/****************/
+/*ESTILOS GERAIS*/
+/****************/
+
+/*GLOBAL*/
+*{
+    box-sizing: border-box;
+
+    margin: 0;
+    padding: 0;
+}
+
+/*BOTÕES*/
+button{
+    cursor: pointer;
+}
+
+/*ROOT*/
+:root{
+    /*******************/
+    /*VARIÁVEIS GLOBAIS*/
+    /*******************/
+
+    /*CORES PRIMÁRIAS*/
+    --black:            hsl(0, 0%, 0%);
+    --dark-gray:        hsl(0, 0%, 62%);
+    --very-dark-gray:   hsl(0, 0%, 26%);
+    --white:            hsl(0, 0%, 100%);
+}
